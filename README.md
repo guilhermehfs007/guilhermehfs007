@@ -15,7 +15,6 @@
 
 **📊 Estatísticas do GitHub**
 ![Suas estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=guilhermehfs007&show_icons=true&theme=radical)
-
 ![Top Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermehfs007&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermehfs007&theme=radical)
 
