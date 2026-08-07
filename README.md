@@ -1,4 +1,5 @@
 ### Olá, sou o Guilherme 👋
+
 🎓 Estudante de Ciência da Computação na USP
 🔬 Atualmente em Iniciação Científica na área de aprendizado de máquina aplicado a processamento de imagem
 🧑‍💼 Membro do centro acadêmico do curso há 2 anos
@@ -12,12 +13,16 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 
+**📊 Estatísticas do GitHub**
+
+![Suas estatísticas](https://github-readme-stats.vercel.app/api?username=guilhermehfs007&show_icons=true&theme=radical)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehfs007&layout=compact&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermehfs007&theme=radical)
+
+
 **📫 Contato**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-felix-dos-santos-7541aa352/)
-📧 guilherme2018@gmail.com
-
-![Suas estatísticas](https://github-readme-stats.vercel.app/api?username=guilhermehfs007&show_icons=true&theme=radical)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehfs007&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermehfs007&theme=radical)
-![3D Contribution Graph](https://raw.githubusercontent.com/guilhermehfs007/guilhermehfs007/output/github-contribution-grid-snake.svg)
+📧 guilhermehfs2018@gmail.com
