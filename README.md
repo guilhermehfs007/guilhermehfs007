@@ -14,5 +14,5 @@
 
 **📫 Contato**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guilherme-henrique-felix-dos-santos-7541aa352/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-felix-dos-santos-7541aa352/)
 📧 guilherme2018@gmail.com
