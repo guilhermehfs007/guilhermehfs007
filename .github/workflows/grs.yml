@@ -27,7 +27,7 @@ jobs:
           card: top-langs
           options: username=guilhermehfs007&layout=compact&theme=radical
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+         token: ${{ secrets.PAT_1 }}
 
       - name: Commit cards
         run: |
