@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação na USP
 🔬 Atualmente em Iniciação Científica na área de aprendizado de máquina aplicado a processamento de imagem
-🧑‍💼 Membro do centro acadêmico do curso há 2 anos
+🧑‍💼 Representante academico  2 anos
 
 
 **🛠️ Tecnologias & ferramentas**
