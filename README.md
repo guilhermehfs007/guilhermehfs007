@@ -3,7 +3,8 @@
 Estudante de Ciência da Computação na USP
 Atualmente em Iniciação Científica na área de aprendizado de máquina aplicado a processamento de imagem
 Representante academico  2 anos
-iniciação cientifica em visão computacional com aprendrendizado de maquina
+Iniciação cientifica em visão computacional com aprendrendizado de maquina
+
 
 'Tecnologias & ferramentas
 
