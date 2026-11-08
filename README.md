@@ -17,6 +17,7 @@ Estatísticas do GitHub
 
 
 ![Suas estatísticas](./profile/stats.svg)
+
 ![Principais Linguagens](./profile/top-langs.svg)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermehfs007&theme=radical)
 
