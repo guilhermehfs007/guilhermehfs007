@@ -4,7 +4,7 @@ Estudante de Ciência da Computação na USP
 Atualmente em Iniciação Científica na área de aprendizado de máquina aplicado a processamento de imagem
 Representante academico  2 anos
 
-'Tecnologias & ferramentas
+Tecnologias & ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange?style=flat)
