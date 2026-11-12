@@ -1,9 +1,9 @@
 ### Oie, sou o Guilherme 
 
-Estudante de Ciência da Computação na USP
-Atualmente em Iniciação Científica na área de aprendizado de máquina aplicado a processamento de imagem
-Representante academico  2 anos
-Membro comerical da Octbit
+Estudante de Ciência da Computação na USP.
+Atualmente em Iniciação Científica na área de aprendizado de máquina aplicado a processamento de imagem.
+Representante academico  2 anos.
+Membro comerical da Octbit.
 
 Tecnologias & ferramentas
 
